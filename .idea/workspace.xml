@@ -32,19 +32,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dac8f854-b503-48bd-b02b-8c042237f387" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/carbon-dating.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/carbon-dating.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/count-cats.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/count-cats.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dream-team.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/dream-team.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extended-repeater.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/extended-repeater.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hanoi-tower.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hanoi-tower.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursive-depth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursive-depth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simple-chain.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple-chain.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/transform-array.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/transform-array.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/what-season.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/what-season.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/simple-chain.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/simple-chain.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/transform-array.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/transform-array.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vigenere-cipher.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/vigenere-cipher.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +51,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test2.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -82,7 +71,8 @@
       <updated>1614410959541</updated>
       <workItem from="1614410960616" duration="3390000" />
       <workItem from="1614513386811" duration="13300000" />
-      <workItem from="1614613699636" duration="1268000" />
+      <workItem from="1614613699636" duration="8001000" />
+      <workItem from="1614679894422" duration="425000" />
     </task>
     <servers />
   </component>
